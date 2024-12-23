@@ -1,0 +1,95 @@
+REACT STARTER TEMPLATE DEPENDENCIES GUIDE
+
+UI AND STYLING
+-------------
+@shadcn/ui: A collection of re-usable components built with Radix UI and Tailwind CSS
+tailwindcss: A utility-first CSS framework for rapid UI development
+clsx: A tiny utility for constructing className strings conditionally
+tailwind-merge: Utility for merging Tailwind CSS classes without style conflicts
+postcss: A tool for transforming CSS with JavaScript
+autoprefixer: PostCSS plugin to parse CSS and add vendor prefixes automatically
+react-fast-marquee: Lightweight component for smooth scrolling marquee animations
+
+ROUTING
+-------
+react-router-dom: Declarative routing for React web applications
+
+STATE MANAGEMENT
+--------------
+zustand: A small, fast, and scalable state management solution
+@tanstack/react-query: Powerful asynchronous state management for fetching, caching, and updating data
+
+DATA VISUALIZATION
+----------------
+chart.js: Simple yet flexible JavaScript charting library
+react-chartjs-2: React wrapper for Chart.js to create beautiful charts and graphs
+d3: Powerful library for creating custom data visualizations and manipulating data-driven documents
+
+FORMS AND VALIDATION
+------------------
+react-hook-form: Performant, flexible and extensible forms with easy-to-use validation
+@hookform/resolvers: Resolvers for integrating validation libraries with React Hook Form
+zod: TypeScript-first schema validation with static type inference
+react-dropzone: Drag and drop file upload component with great extensibility
+
+ANIMATIONS AND INTERACTIONS
+-------------------------
+@react-spring/web: A spring-physics based animation library for React
+framer-motion: A production-ready motion library for React
+@react-aria/focus: Hooks for managing focus interactions and accessibility
+
+INTERNATIONALIZATION
+------------------
+i18next: Internationalization framework for browser or any JavaScript environment
+react-i18next: React integration for i18next
+i18next-http-backend: Load translations using XHR or fetch API
+i18next-browser-languagedetector: Language detector for i18next
+
+HTTP AND API
+-----------
+axios: Promise based HTTP client for the browser and Node.js
+
+ANALYTICS AND TRACKING
+--------------------
+react-ga4: Google Analytics 4 implementation for React
+
+HEAD MANAGEMENT
+-------------
+react-helmet: A document head manager for React
+
+CLOUD SERVICES
+-------------
+cloudinary: Cloud service for image and video management, optimization, and delivery
+@supabase/supabase-js: Client library for Supabase - an open source Firebase alternative with PostgreSQL
+
+PAYMENT PROCESSING
+----------------
+@stripe/stripe-js: Official Stripe JavaScript library for secure payment processing
+@stripe/react-stripe-js: React components and hooks for Stripe Elements and payment flows
+
+UTILITIES
+--------
+lucide-react: Beautiful & consistent icons for React applications
+sonner: An opinionated toast component for React
+react-lazy-load-image-component: Component to lazy load images and components to improve performance
+sharp: High performance Node.js image processing library for resizing and converting images
+date-fns: Modern JavaScript date utility library for parsing, validating, manipulating, and formatting dates
+
+CORE DEPENDENCIES
+---------------
+react: A JavaScript library for building user interfaces
+react-dom: React package for working with the DOM
+
+DEVELOPMENT TOOLS
+---------------
+typescript: JavaScript with syntax for types
+vite: Next generation frontend tooling
+@vitejs/plugin-react: Official React plugin for Vite
+@types/react: TypeScript definitions for React
+@types/react-dom: TypeScript definitions for React DOM
+eslint: Pluggable JavaScript linter
+eslint-plugin-react-hooks: ESLint rules for React hooks
+eslint-plugin-react-refresh: ESLint plugin for React Refresh
+@eslint/js: ESLint JavaScript configuration
+typescript-eslint: TypeScript parser and rules for ESLint
+globals: Global identifiers from different JavaScript environments
